@@ -1,0 +1,11 @@
+1) Quotation at end of sentence
+„Ich habe heute keine Zeit“, sagte die Frau und flüsterte leise: „Und auch keine Lust.“ Wir haben 1.000.000 Euro.
+["„Ich habe heute keine Zeit“, sagte die Frau und flüsterte leise: „Und auch keine Lust.“", "Wir haben 1.000.000 Euro."]
+
+2) Abbreviations
+Es gibt jedoch einige Vorsichtsmaßnahmen, die Du ergreifen kannst, z. B. ist es sehr empfehlenswert, dass Du Dein Zuhause von allem Junkfood befreist.
+["Es gibt jedoch einige Vorsichtsmaßnahmen, die Du ergreifen kannst, z. B. ist es sehr empfehlenswert, dass Du Dein Zuhause von allem Junkfood befreist."]
+
+3) Numbers
+Was sind die Konsequenzen der Abstimmung vom 12. Juni?
+["Was sind die Konsequenzen der Abstimmung vom 12. Juni?"]

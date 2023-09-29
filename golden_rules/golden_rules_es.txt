@@ -1,0 +1,19 @@
+1) Question mark to end sentence
+¿Cómo está hoy? Espero que muy bien.
+["¿Cómo está hoy?", "Espero que muy bien."]
+
+2) Exclamation point to end sentence
+¡Hola señorita! Espero que muy bien.
+["¡Hola señorita!", "Espero que muy bien."]
+
+3) Abbreviations
+Hola Srta. Ledesma. Buenos días, soy el Lic. Naser Pastoriza, y él es mi padre, el Dr. Naser.
+["Hola Srta. Ledesma.", "Buenos días, soy el Lic. Naser Pastoriza, y él es mi padre, el Dr. Naser."]
+
+4) Numbers
+¡La casa cuesta $170.500.000,00! ¡Muy costosa! Se prevé una disminución del 12.5% para el próximo año.
+["¡La casa cuesta $170.500.000,00!", "¡Muy costosa!", "Se prevé una disminución del 12.5% para el próximo año."]
+
+5) Quotations
+«Ninguna mente extraordinaria está exenta de un toque de demencia.», dijo Aristóteles.
+["«Ninguna mente extraordinaria está exenta de un toque de demencia.», dijo Aristóteles."]

@@ -1,0 +1,11 @@
+1) Abbreviations
+Salve Sig.ra Mengoni! Come sta oggi?
+["Salve Sig.ra Mengoni!", "Come sta oggi?"]
+
+2) Quotations
+Una lettera si può iniziare in questo modo «Il/la sottoscritto/a.».
+["Una lettera si può iniziare in questo modo «Il/la sottoscritto/a.»."]
+
+3) Numbers
+La casa costa 170.500.000,00€!
+["La casa costa 170.500.000,00€!"]
