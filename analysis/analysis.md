@@ -8,4 +8,5 @@
 
 ## Datasets
 * https://www.wordfrequency.info/
-  
+* https://www.newgeneralservicelist.com/
+* https://www.oxfordlearnersdictionaries.com/us/wordlists/oxford3000-5000
