@@ -1,2 +1,2 @@
 # frankish-tongue
-divide-and-conquer approach for sentence tokenization
+divide-and-conquer approach for NLP model
